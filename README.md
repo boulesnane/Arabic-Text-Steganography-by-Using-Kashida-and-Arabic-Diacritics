@@ -1,5 +1,5 @@
 # Arabic-Text-Steganography-by-Using-Kashida-and-Arabic-Diacritics
-This method hides an Arabic text inside another based on a hybrid approach. Both Kashida and Arabic Diacritics are used to hide the Arabic text inside another text.
+This method hides an Arabic text inside another based on a hybrid approach. Both Kashida and Arabic Diacritics are used to hide the Arabic text inside another text [1].
 
 # REFERENCES
 1. Alshahrani, Haya Mesfer S., and George Weir. "Hybrid Arabic text steganography." International Journal of Computer and Information Technology 6.6 (2017): 329-338.
